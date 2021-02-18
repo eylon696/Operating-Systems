@@ -1,2 +1,0 @@
-# Operating-Systems
-Homework assignment
