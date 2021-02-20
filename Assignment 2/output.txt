@@ -1,0 +1,290 @@
+car: 2699238 , time : 7 , started shock absorber replacement.
+car: 3081767 , time : 7 , started diagnostics.
+car: 6211606 , time : 7 , started brake repair.
+car: 4651474 , time : 7 , started timing belt replacement.
+car: 3756413 , time : 7 , started paint job.
+car: 1099200 , time : 7 , started battery replacement.
+car: 3111028 , time : 7 , started flat tire repair.
+car: 3081767 , time : 8 , completed diagnostics.
+car: 3081767 , time : 8 , service complete
+car: 1180605 , time : 8 , started battery replacement.
+car: 1099200 , time : 8 , completed battery replacement.
+car: 7389633 , time : 8 , started battery replacement.
+car: 3111028 , time : 8 , completed flat tire repair.
+car: 3111028 , time : 8 , service complete
+car: 6619273 , time : 8 , started transmission replacement.
+car: 2699238 , time : 9 , completed shock absorber replacement.
+car: 2699238 , time : 9 , started flat tire repair.
+car: 1180605 , time : 9 , completed battery replacement.
+car: 6211606 , time : 9 , completed brake repair.
+car: 6211606 , time : 9 , started headlights adjustment.
+car: 2986376 , time : 9 , started oil change.
+car: 6193293 , time : 9 , started alternator replacement.
+car: 5899891 , time : 9 , started diagnostics.
+car: 7389633 , time : 9 , completed battery replacement.
+car: 7389633 , time : 9 , service complete
+car: 2699238 , time : 10 , completed flat tire repair.
+car: 2699238 , time : 10 , started battery replacement.
+car: 6909267 , time : 10 , started air filter change.
+car: 6211606 , time : 10 , completed headlights adjustment.
+car: 2986376 , time : 10 , completed oil change.
+car: 5899891 , time : 10 , completed diagnostics.
+car: 2986376 , time : 10 , started battery replacement.
+car: 2699238 , time : 11 , completed battery replacement.
+car: 2699238 , time : 11 , service complete
+car: 3274520 , time : 11 , started battery replacement.
+car: 6909267 , time : 11 , completed air filter change.
+car: 6193293 , time : 11 , completed alternator replacement.
+car: 2986376 , time : 11 , completed battery replacement.
+car: 1123259 , time : 11 , started exhaust replacement.
+car: 4651474 , time : 11 , completed timing belt replacement.
+car: 4949283 , time : 12 , started diagnostics.
+car: 3274520 , time : 12 , completed battery replacement.
+car: 3274520 , time : 12 , service complete
+car: 2895420 , time : 13 , started air filter change.
+car: 4949283 , time : 13 , completed diagnostics.
+car: 4949283 , time : 13 , started headlights adjustment.
+car: 1123259 , time : 13 , completed exhaust replacement.
+car: 1123259 , time : 13 , service complete
+car: 2895420 , time : 14 , completed air filter change.
+car: 4949283 , time : 14 , completed headlights adjustment.
+car: 4949283 , time : 14 , started battery replacement.
+car: 6619273 , time : 14 , completed transmission replacement.
+car: 6619273 , time : 14 , started alternator replacement.
+car: 4651474 , time : 14 , started engine replacement.
+car: 4949283 , time : 15 , completed battery replacement.
+car: 4949283 , time : 15 , service complete
+car: 3756413 , time : 15 , completed paint job.
+car: 3756413 , time : 15 , started diagnostics.
+car: 1099200 , time : 15 , started paint job.
+car: 3756413 , time : 16 , completed diagnostics.
+car: 3756413 , time : 16 , started air filter change.
+car: 6619273 , time : 16 , completed alternator replacement.
+car: 6619273 , time : 16 , started air filter change.
+car: 8568724 , time : 16 , started exhaust replacement.
+car: 3756413 , time : 17 , completed air filter change.
+car: 6619273 , time : 17 , completed air filter change.
+car: 8568724 , time : 18 , completed exhaust replacement.
+car: 8568724 , time : 18 , started air filter change.
+car: 2506509 , time : 18 , started shock absorber replacement.
+car: 8568724 , time : 19 , completed air filter change.
+car: 4651474 , time : 20 , completed engine replacement.
+car: 4651474 , time : 20 , started brake repair.
+car: 2735179 , time : 20 , started engine replacement.
+car: 2506509 , time : 20 , completed shock absorber replacement.
+car: 2506509 , time : 20 , service complete
+car: 6211606 , time : 20 , started tire replacement.
+car: 6211606 , time : 21 , completed tire replacement.
+car: 6211606 , time : 21 , started shock absorber replacement.
+car: 4651474 , time : 22 , completed brake repair.
+car: 4651474 , time : 22 , started tire replacement.
+car: 1099200 , time : 23 , completed paint job.
+car: 7081289 , time : 23 , started paint job.
+car: 4651474 , time : 23 , completed tire replacement.
+car: 4651474 , time : 23 , service complete
+car: 5133309 , time : 23 , started tire replacement.
+car: 6211606 , time : 23 , completed shock absorber replacement.
+car: 6211606 , time : 23 , service complete
+car: 5133309 , time : 0 , completed tire replacement.
+car: 5133309 , time : 0 , started exhaust replacement.
+car: 2735179 , time : 2 , completed engine replacement.
+car: 2735179 , time : 2 , started shock absorber replacement.
+car: 9082407 , time : 2 , started engine replacement.
+car: 5133309 , time : 2 , completed exhaust replacement.
+car: 5133309 , time : 2 , started flat tire repair.
+car: 5133309 , time : 3 , completed flat tire repair.
+car: 5133309 , time : 3 , service complete
+car: 2239018 , time : 3 , started brake repair.
+car: 2735179 , time : 4 , completed shock absorber replacement.
+car: 2735179 , time : 4 , started headlights adjustment.
+car: 4930051 , time : 4 , started brake repair.
+car: 2735179 , time : 5 , completed headlights adjustment.
+car: 2239018 , time : 5 , completed brake repair.
+car: 2239018 , time : 5 , service complete
+car: 1180605 , time : 5 , started oil change.
+car: 4930051 , time : 6 , completed brake repair.
+car: 4930051 , time : 6 , started timing belt replacement.
+car: 1180605 , time : 6 , completed oil change.
+car: 1180605 , time : 6 , service complete
+car: 2895420 , time : 6 , started oil change.
+car: 7081289 , time : 7 , completed paint job.
+car: 7081289 , time : 7 , service complete
+car: 9885513 , time : 7 , started paint job.
+car: 2895420 , time : 7 , completed oil change.
+car: 9082407 , time : 8 , completed engine replacement.
+car: 9082407 , time : 8 , service complete
+car: 7685885 , time : 8 , started transmission replacement.
+car: 4930051 , time : 10 , completed timing belt replacement.
+car: 7685885 , time : 14 , completed transmission replacement.
+car: 7685885 , time : 14 , service complete
+car: 2791653 , time : 14 , started oil change.
+car: 7420764 , time : 14 , started timing belt replacement.
+car: 3956065 , time : 14 , started engine replacement.
+car: 9885513 , time : 15 , completed paint job.
+car: 9885513 , time : 15 , started headlights adjustment.
+car: 6909267 , time : 15 , started paint job.
+car: 2791653 , time : 15 , completed oil change.
+car: 2791653 , time : 15 , started diagnostics.
+car: 9885513 , time : 16 , completed headlights adjustment.
+car: 9885513 , time : 16 , started diagnostics.
+car: 2791653 , time : 16 , completed diagnostics.
+car: 2791653 , time : 16 , service complete
+car: 9885513 , time : 17 , completed diagnostics.
+car: 7420764 , time : 18 , completed timing belt replacement.
+car: 7420764 , time : 18 , started exhaust replacement.
+car: 3956065 , time : 20 , completed engine replacement.
+car: 3956065 , time : 20 , service complete
+car: 7420764 , time : 20 , completed exhaust replacement.
+car: 7420764 , time : 20 , started alternator replacement.
+car: 7099567 , time : 20 , started brake repair.
+car: 4930051 , time : 20 , started engine replacement.
+car: 7420764 , time : 22 , completed alternator replacement.
+car: 7420764 , time : 22 , service complete
+car: 7099567 , time : 22 , completed brake repair.
+car: 9802046 , time : 22 , started oil change.
+car: 6980676 , time : 22 , started shock absorber replacement.
+car: 6909267 , time : 23 , completed paint job.
+car: 6909267 , time : 23 , service complete
+car: 6193293 , time : 23 , started paint job.
+car: 9802046 , time : 23 , completed oil change.
+car: 6980676 , time : 0 , completed shock absorber replacement.
+car: 6980676 , time : 0 , service complete
+car: 6619273 , time : 0 , started flat tire repair.
+car: 6619273 , time : 1 , completed flat tire repair.
+car: 6619273 , time : 1 , service complete
+car: 4930051 , time : 2 , completed engine replacement.
+car: 4930051 , time : 2 , service complete
+car: 2599852 , time : 2 , started transmission replacement.
+car: 6193293 , time : 7 , completed paint job.
+car: 6193293 , time : 7 , service complete
+car: 2986376 , time : 7 , started paint job.
+car: 2599852 , time : 8 , completed transmission replacement.
+car: 2599852 , time : 8 , service complete
+car: 7676201 , time : 8 , started shock absorber replacement.
+car: 8568724 , time : 8 , started engine replacement.
+car: 7676201 , time : 10 , completed shock absorber replacement.
+car: 7676201 , time : 10 , started tire replacement.
+car: 7676201 , time : 11 , completed tire replacement.
+car: 7676201 , time : 11 , started oil change.
+car: 9030226 , time : 11 , started timing belt replacement.
+car: 7676201 , time : 12 , completed oil change.
+car: 8568724 , time : 14 , completed engine replacement.
+car: 8568724 , time : 14 , service complete
+car: 9226856 , time : 14 , started flat tire repair.
+car: 7099567 , time : 14 , started transmission replacement.
+car: 2986376 , time : 15 , completed paint job.
+car: 2113471 , time : 15 , started paint job.
+car: 9030226 , time : 15 , completed timing belt replacement.
+car: 9030226 , time : 15 , started tire replacement.
+car: 9226856 , time : 15 , completed flat tire repair.
+car: 9226856 , time : 15 , service complete
+car: 9030226 , time : 16 , completed tire replacement.
+car: 9030226 , time : 16 , started diagnostics.
+car: 4766472 , time : 16 , started brake repair.
+car: 9030226 , time : 17 , completed diagnostics.
+car: 9030226 , time : 17 , started battery replacement.
+car: 4766472 , time : 18 , completed brake repair.
+car: 4766472 , time : 18 , started flat tire repair.
+car: 9030226 , time : 18 , completed battery replacement.
+car: 9030226 , time : 18 , service complete
+car: 4766472 , time : 19 , completed flat tire repair.
+car: 4766472 , time : 19 , service complete
+car: 1415035 , time : 19 , started tire replacement.
+car: 7099567 , time : 20 , completed transmission replacement.
+car: 7099567 , time : 20 , started headlights adjustment.
+car: 9885513 , time : 20 , started shock absorber replacement.
+car: 3960674 , time : 20 , started transmission replacement.
+car: 1415035 , time : 20 , completed tire replacement.
+car: 1415035 , time : 20 , service complete
+car: 6501532 , time : 20 , started brake repair.
+car: 7099567 , time : 21 , completed headlights adjustment.
+car: 9885513 , time : 22 , completed shock absorber replacement.
+car: 9885513 , time : 22 , service complete
+car: 6558191 , time : 22 , started exhaust replacement.
+car: 6501532 , time : 22 , completed brake repair.
+car: 6501532 , time : 22 , started headlights adjustment.
+car: 2113471 , time : 23 , completed paint job.
+car: 2735179 , time : 23 , started paint job.
+car: 6501532 , time : 23 , completed headlights adjustment.
+car: 6558191 , time : 0 , completed exhaust replacement.
+car: 6558191 , time : 0 , started shock absorber replacement.
+car: 3960674 , time : 2 , completed transmission replacement.
+car: 3960674 , time : 2 , service complete
+car: 4925410 , time : 2 , started oil change.
+car: 7676201 , time : 2 , started flat tire repair.
+car: 2278430 , time : 2 , started engine replacement.
+car: 6558191 , time : 2 , completed shock absorber replacement.
+car: 6558191 , time : 2 , started timing belt replacement.
+car: 4925410 , time : 3 , completed oil change.
+car: 4925410 , time : 3 , service complete
+car: 7676201 , time : 3 , completed flat tire repair.
+car: 7676201 , time : 3 , service complete
+car: 1890055 , time : 3 , started brake repair.
+car: 1890055 , time : 5 , completed brake repair.
+car: 1890055 , time : 5 , started diagnostics.
+car: 6558191 , time : 6 , completed timing belt replacement.
+car: 6558191 , time : 6 , service complete
+car: 1890055 , time : 6 , completed diagnostics.
+car: 1890055 , time : 6 , started alternator replacement.
+car: 2735179 , time : 7 , completed paint job.
+car: 2735179 , time : 7 , service complete
+car: 2278430 , time : 8 , completed engine replacement.
+car: 2278430 , time : 8 , started shock absorber replacement.
+car: 1512595 , time : 8 , started engine replacement.
+car: 1890055 , time : 8 , completed alternator replacement.
+car: 1890055 , time : 8 , service complete
+car: 2113471 , time : 8 , started brake repair.
+car: 2278430 , time : 10 , completed shock absorber replacement.
+car: 2278430 , time : 10 , started oil change.
+car: 5899891 , time : 10 , started alternator replacement.
+car: 2113471 , time : 10 , completed brake repair.
+car: 2113471 , time : 10 , service complete
+car: 3756413 , time : 10 , started exhaust replacement.
+car: 2278430 , time : 11 , completed oil change.
+car: 2278430 , time : 11 , service complete
+car: 5899891 , time : 12 , completed alternator replacement.
+car: 5899891 , time : 12 , started exhaust replacement.
+car: 3756413 , time : 12 , completed exhaust replacement.
+car: 3756413 , time : 12 , service complete
+car: 1512595 , time : 14 , completed engine replacement.
+car: 1512595 , time : 14 , started alternator replacement.
+car: 2968693 , time : 14 , started transmission replacement.
+car: 5899891 , time : 14 , completed exhaust replacement.
+car: 5899891 , time : 14 , started brake repair.
+car: 1512595 , time : 16 , completed alternator replacement.
+car: 1512595 , time : 16 , started battery replacement.
+car: 5899891 , time : 16 , completed brake repair.
+car: 5899891 , time : 16 , service complete
+car: 7099567 , time : 16 , started alternator replacement.
+car: 1512595 , time : 17 , completed battery replacement.
+car: 1512595 , time : 17 , service complete
+car: 7099567 , time : 18 , completed alternator replacement.
+car: 7099567 , time : 18 , service complete
+car: 2895420 , time : 18 , started brake repair.
+car: 2968693 , time : 20 , completed transmission replacement.
+car: 2968693 , time : 20 , started tire replacement.
+car: 6501532 , time : 20 , started transmission replacement.
+car: 2895420 , time : 20 , completed brake repair.
+car: 2895420 , time : 20 , started paint job.
+car: 2968693 , time : 21 , completed tire replacement.
+car: 2968693 , time : 21 , service complete
+car: 6501532 , time : 2 , completed transmission replacement.
+car: 6501532 , time : 2 , started alternator replacement.
+car: 2986376 , time : 2 , started engine replacement.
+car: 2895420 , time : 4 , completed paint job.
+car: 2895420 , time : 4 , service complete
+car: 6501532 , time : 4 , completed alternator replacement.
+car: 6501532 , time : 4 , service complete
+car: 1099200 , time : 4 , started flat tire repair.
+car: 1099200 , time : 5 , completed flat tire repair.
+car: 1099200 , time : 5 , started oil change.
+car: 1099200 , time : 6 , completed oil change.
+car: 1099200 , time : 6 , service complete
+car: 2986376 , time : 8 , completed engine replacement.
+car: 2986376 , time : 8 , service complete
+car: 9802046 , time : 8 , started engine replacement.
+car: 9802046 , time : 14 , completed engine replacement.
+car: 9802046 , time : 14 , service complete
+car: 9195627 , time : 14 , started transmission replacement.
+car: 9195627 , time : 20 , completed transmission replacement.
+car: 9195627 , time : 20 , service complete
